@@ -12,3 +12,10 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (i) Using IQR detect weight outliers and print them
 
 (ii) Using IQR, detect height outliers and print them
+
+## Algorithm:
+Step1: Read the given Data.
+Step2: Get the information about the data.
+Step3: Detect the Outliers using IQR method and Z score.
+Step4: Remove the outliers.
+Step5: Plot the datas using Box Plot.
