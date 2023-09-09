@@ -97,4 +97,37 @@ sns.boxplot(y='weight',data=weight_new)
 
 ## OUTPUT:
 
+### bhp.csv:
+![265059074-c62482aa-13d3-4e93-84f3-14d77e12ff94](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/585873b7-db35-4292-85a5-f07438a9ba22) ![265059155-77006c4a-5f65-4c46-b43d-62da3adeae72](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/2dc8e259-103a-4505-badb-60a8c12bea30)
+
+
+
+![265059121-550161a2-7e49-4873-b9d3-2dee79909859](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/10a13109-52df-4994-81cd-5578693c5815)
+
+![265059222-699f1ddd-dfb7-4d58-abd5-69614106d9d4](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/a7d5a2e3-cf7a-43ce-b410-1b6ca63bd3ea)
+
+![265059167-6ab44ad1-3d24-49ac-8ed8-0a873ee9094c](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/07dc71b4-b403-4474-9868-acdf1605e79f)
+
+![265059222-699f1ddd-dfb7-4d58-abd5-69614106d9d4](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/ce860c5c-aae1-4485-9805-f9df899b5a5d)
+
+### weight.csv:
+
+![265060058-ea846d57-a472-4b28-8d0a-3c405d80f8e0](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/4ddd9143-6bf7-4317-95cc-170bdce40c70)
+
+![265060068-beead9e7-e4bc-4431-a536-bacdb947e6b6](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/b145fbd0-ac54-4a88-a8be-c0aa9a14ca6b)
+
+![265060084-952f228c-8518-4f91-b966-fda9215eb959](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/693dc956-3fe6-4bf7-8b6b-27fa78b01694)
+
+![265060101-35fbb5b8-69b9-4592-9685-d81d4cb0f844](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/39063522-4c11-424c-be51-f07a380abdfb)
+
+![265060107-3606e325-b846-412f-b0c2-e56d74b16427](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/7ea733c7-c2a8-4f9c-9187-f76483e09303)
+
+![265060126-14b3b742-5bfe-47c2-954b-7ee7315c6848](https://github.com/Janarthanan2/Datascience---Ex-02/assets/119393515/1d3c099a-339e-492a-b9cb-09e5851809f3)
+
+## Result:
+Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
+
+
+
+
 
