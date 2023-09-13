@@ -105,9 +105,9 @@ sns.boxplot(x='weight',data=newdata_weight)
 # OUTPUT:
 # bhp.csv:
 # df.head():
-![image](https://github.com/tharikasankar/ODD2023---Datascience---Ex-02/assets/119475507/dccfeeee-0586-4be0-8988-fc75d321180f)
+![image](https://github.com/chaitanya18c/ODD2023---Datascience---Ex-02/assets/119392724/ff0f3585-5697-4b0d-9de9-4e68a0bd3072)
 # df.describe():
-![image](https://github.com/tharikasankar/ODD2023---Datascience---Ex-02/assets/119475507/ecae24a6-2009-4ad7-a903-c7c3bd6be8fc)
+![image]
 # df.info():
 ![image](https://github.com/tharikasankar/ODD2023---Datascience---Ex-02/assets/119475507/f3a222f3-ad0a-4f1f-800b-e64b9d1e327d)
 # df.shape
